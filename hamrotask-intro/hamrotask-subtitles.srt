@@ -1,72 +1,72 @@
 1
-00:00:00,400 --> 00:00:02,000
+00:00:00,600 --> 00:00:01,905
 HamroTask.
 
 2
-00:00:02,000 --> 00:00:03,600
+00:00:02,155 --> 00:00:03,233
 Your time.
 
 3
-00:00:03,600 --> 00:00:05,520
+00:00:03,483 --> 00:00:04,621
 Your skills.
 
 4
-00:00:05,520 --> 00:00:07,600
+00:00:04,871 --> 00:00:06,087
 Your rewards.
 
 5
-00:00:08,600 --> 00:00:13,428
+00:00:06,337 --> 00:00:11,820
 HamroTask is an online platform where you can earn rewards by completing tasks.
 
 6
-00:00:13,428 --> 00:00:17,400
+00:00:12,070 --> 00:00:17,046
 Create an account at hamrotask.com and explore what is available.
 
 7
-00:00:18,600 --> 00:00:27,178
+00:00:17,296 --> 00:00:22,932
 Inside, you will find available tasks, a daily login bonus and a Lucky Draw.
 
 8
-00:00:27,178 --> 00:00:33,838
+00:00:23,182 --> 00:00:26,860
 Build your team with My Workers and earn Worker Commission.
 
 9
-00:00:33,838 --> 00:00:41,400
+00:00:27,110 --> 00:00:31,955
 Collect Reward Points and follow Live Activity across the platform.
 
 10
-00:00:42,600 --> 00:00:43,847
+00:00:32,205 --> 00:00:34,000
 Here is how it works.
 
 11
-00:00:43,847 --> 00:00:45,568
+00:00:34,250 --> 00:00:36,616
 First, register your account.
 
 12
-00:00:45,568 --> 00:00:47,705
+00:00:36,866 --> 00:00:39,823
 Second, explore the available tasks.
 
 13
-00:00:47,705 --> 00:00:50,792
+00:00:40,073 --> 00:00:43,578
 Third, complete the activities you are eligible for.
 
 14
-00:00:50,792 --> 00:00:53,939
+00:00:43,828 --> 00:00:47,544
 Fourth, earn rewards according to the platform rules.
 
 15
-00:00:53,939 --> 00:00:59,400
+00:00:47,794 --> 00:00:53,887
 Rewards depend on your activity and the rules in place, so there are no guaranteed earnings.
 
 16
-00:01:00,600 --> 00:01:04,707
+00:00:54,137 --> 00:00:55,997
 Start your journey today.
 
 17
-00:01:04,707 --> 00:01:07,993
+00:00:56,247 --> 00:00:58,680
 Visit hamrotask.com.
 
 18
-00:01:07,993 --> 00:01:14,400
+00:00:58,930 --> 00:01:03,035
 For support, email HamroTask@gmail.com.
 

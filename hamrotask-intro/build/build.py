@@ -289,7 +289,7 @@ def final_mix(video, out, voice=None):
     if voice:
         inputs += ["-i", voice]
         vi = len(inputs) // 2 - 1
-        graph.append(f"[{vi}:a]asplit=2[vo1][vo2];")
+        graph.append(f"[{vi}:a]apad=whole_dur={TOTAL},asplit=2[vo1][vo2];")
         graph.append("[mu][vo1]sidechaincompress=threshold=0.05:ratio=8:attack=20:release=400[duck];")
         mix_inputs = "[vo2][duck]" + "".join(sfx_labels)
         graph.append(f"{mix_inputs}amix=inputs={2 + len(sfx_labels)}:duration=first:normalize=0,"
