@@ -1,0 +1,22 @@
+HAMROTASK YOUTUBE INTRO - NARRATION SCRIPT (about 70 seconds)
+
+[0-8s]   HamroTask. Your time. Your skills. Your rewards.
+
+[8-18s]  HamroTask is an online platform where you can earn rewards by completing tasks.
+         Create an account at hamrotask dot com and explore what is available.
+
+[18-42s] Inside, you will find available tasks, a daily login bonus and a Lucky Draw.
+         Build your team with My Workers and earn Worker Commission.
+         Collect Reward Points and follow Live Activity across the platform.
+
+[42-60s] Here is how it works. First, register your account. Second, explore the available tasks.
+         Third, complete the activities you are eligible for. Fourth, earn rewards according to the
+         platform rules. Rewards depend on your activity and the rules in place, so there are no
+         guaranteed earnings.
+
+[60-75s] Start your journey today. Visit hamrotask dot com.
+         For support, email HamroTask at gmail dot com.
+
+NOTES
+- Feature names are taken from the project brief. They have not been verified against the live site.
+- "hamrotask dot com" and "HamroTask at gmail dot com" are spelled out for the voice; on screen they read hamrotask.com and HamroTask@gmail.com.
