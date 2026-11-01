@@ -25,7 +25,9 @@ spec = importlib.util.spec_from_file_location("b", os.path.join(HERE, "build.py"
 b = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(b)
 
-VOICE = "en-us+f3"
+# Two free espeak-ng voices, alternated by scene: female opener, male features, etc.
+VOICES = {"female": "en-us+f3", "male": "en-us+m3"}
+SCENE_VOICE = {0: "female", 1: "male", 2: "female", 3: "male", 4: "female"}
 SPEED = os.environ.get("ESPEAK_WPM", "150")   # words per minute
 
 
@@ -41,7 +43,8 @@ sentences = []
 for scene_i, a, bnd, text in b.SUB_BLOCKS:
     for n, sent in enumerate(b.split_sentences(text)):
         wav = os.path.join(WORK, f"tts_{scene_i}_{n}.wav")
-        subprocess.run(["espeak-ng", "-v", VOICE, "-s", SPEED, "-w", wav, sent], check=True)
+        voice = VOICES[SCENE_VOICE[scene_i]]
+        subprocess.run(["espeak-ng", "-v", voice, "-s", SPEED, "-w", wav, sent], check=True)
         sentences.append((scene_i, sent, wav, duration(wav)))
 
 # One continuous sequence from 0.6 s, with a short gap between sentences.
